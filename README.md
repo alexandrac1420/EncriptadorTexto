@@ -2,6 +2,9 @@
 
 This project is a web application that allows you to encrypt and decrypt text using a specific set of character transformation rules. The application also provides the ability to copy the resulting text to the clipboard.
 
+![image](https://github.com/user-attachments/assets/43f38336-744c-4571-880c-05b84218b8df)
+
+
 ## Features
 
 - **Encrypt Text**: Converts the input text into an encrypted version using the following rules:
